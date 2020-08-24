@@ -8,8 +8,8 @@ Contemporary Undergraduate Mathematical Contest in Modeling ([CUMCM](http://en.m
 
 ## Authors
 - Xiaozhu Zhang (me)
-- Wenhao Qiu
-- Yiyu Zhuang
+- Wenhao Qiu (邱文昊)
+- Yiyu Zhuang (庄义昱)
 
 Qiu and Zhuang are brillant programmers while I am mainly responsible for model building and paper wirting, though we did not divide our work overly seperate.
 

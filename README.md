@@ -15,8 +15,9 @@ Qiu and Zhuang are brillant programmers while I am mainly responsible for model 
 
 ## Contents
 1. Searching for an optimal path in a web with both fixed and mobile speed-measuring radars.
-2. Establishment of a sismic data analysis platform.
+2. Establishment of a seismic data analysis platform.
 3. Estimation of the minimum living standard based on govenmental fiscal pressure, economic development, social gap and residents' expectations.
 4. Route arrangement for a harbor, considering both capacity and revenue.
 5. (final) A dynamic scheduling model of the rail guided veichle.
 
+As you can see, the problems above are mostly about optimization and prediction which are exactly what we are good at. For each problem/ project, I will post the problem description file, datasets (if any) and our solution. Codes are attached to the end of solutions (in text), but I may share some codes files for optimation problems.
